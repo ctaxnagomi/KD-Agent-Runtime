@@ -1,0 +1,10 @@
+{
+  "name": "kd-services-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MCP server to manage KD AI services and tunnels",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
