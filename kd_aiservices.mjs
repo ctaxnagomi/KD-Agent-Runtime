@@ -375,4 +375,3 @@ process.on("SIGTERM", shutdown);
 
 console.log(`[${projectName}] kd_aiservices ready on port ${PORT}`);
 // by ctaxnagomi
-EOF
